@@ -1,1 +1,1 @@
-# SmartPDF-Chat-Multimodal-Document-Interaction
+# PDF-QA Assistant
